@@ -24,7 +24,7 @@
 	};
 	led@1 {
 		compatible = "mediatek,green";
-		led_mode = <0>;
+		led_mode = <3>;
 		data = <1>;
 		pwm_config = <0 0 0 0 0>;
 	};
